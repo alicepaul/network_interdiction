@@ -11,8 +11,8 @@ M. Natarajan. Understanding the Structure of a Drug Trafficking Organization: A 
 
 The **python** folder contains the code used in our computational experiments.
 
-  *. **graphSimplification.py** contains the code to read/write AMPL files from/to networkx graphs and also contains the code for our graph simplification algorithm.  
-  *. **vimaxMIP.py** contains the code to run the MIP.  
-  *. **simAnnealing.py** contains the code to run the simulated annealing algorithm.
-  *. **randomGraphs.py** contains the code to generate a random graph. 
+  **graphSimplification.py** contains the code to read/write AMPL files from/to networkx graphs and also contains the code for our graph simplification algorithm.  
+  **vimaxMIP.py** contains the code to run the MIP.  
+  **simAnnealing.py** contains the code to run the simulated annealing algorithm.
+  **randomGraphs.py** contains the code to generate a random graph. 
 

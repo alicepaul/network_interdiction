@@ -122,7 +122,7 @@ def runMIP(G, k, m):
 # Runs MIP on folder file
 my_path = "/Users/Alice/Dropbox/network_interdiction/Data/"
 files = [f for f in os.listdir(my_path) if os.path.isfile(os.path.join(my_path,f))]
-files = ["DrugDataRem5Cap1Trial2-undir.dat"]
+#files = ["DrugDataRem5Cap1Trial2-undir.dat"]
 results = "filename, n, num_edges, time, obj, gap, removed \n"
 res_f = open("mip_results_simp2.csv", "w")
 res_f.write(results)

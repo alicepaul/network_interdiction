@@ -127,3 +127,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+SimpData/upd-DrugDataRem1Cap1Trial1-undir.dat
+SimpData/upd-DrugDataRem1Cap1Trial2-undir.dat
+SimpData/upd-DrugDataRem1Cap1Trial3-undir.dat
+SimpData/upd-DrugDataRem1Cap2Trial1-undir.dat
+SimpData/upd-DrugDataRem1Cap2Trial2-undir.dat
+SimpData/upd-DrugDataRem1Cap2Trial3-undir.dat
+SimpData/upd-DrugDataRem5Cap1Trial1-undir.dat
+*.csv
+SimpData/upd-DrugDataRem5Cap1Trial2-undir.dat
+SimpData/upd-DrugDataRem5Cap1Trial3-undir.dat
+SimpData/upd-DrugDataRem5Cap2Trial1-undir.dat
+SimpData/upd-DrugDataRem5Cap2Trial2-undir.dat
+SimpData/upd-DrugDataRem5Cap2Trial3-undir.dat
+*.xlsx
+python/.DS_Store
+.DS_Store
+Data/DrugDataRem1Cap1Trial1-undir.dat
+Data/DrugDataRem1Cap1Trial2-undir.dat
+Data/DrugDataRem1Cap1Trial3-undir.dat
+Data/DrugDataRem1Cap2Trial1-undir.dat
+Data/DrugDataRem1Cap2Trial2-undir.dat
+Data/DrugDataRem1Cap2Trial3-undir.dat
+Data/DrugDataRem5Cap1Trial1-undir.dat
+Data/DrugDataRem5Cap1Trial2-undir.dat
+Data/DrugDataRem5Cap1Trial3-undir.dat
+Data/DrugDataRem5Cap2Trial1-undir.dat
+Data/DrugDataRem5Cap2Trial2-undir.dat
+Data/DrugDataRem5Cap2Trial3-undir.dat
